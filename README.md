@@ -1,8 +1,6 @@
 # Minecraft-Mods-and-Shaders
 
-first use iris installer, 1.18.2
-then move shaders file, (don't decompress) to shaders folder
-copymods from "mods-used" in mods folder
-
-## TO GET TO MINECRAFT FOLDER ##
-hit WIN + R and type in %appdata%\.minecraft
+(Minecraft 1.18.2 must be installed)
+First, click the green button that says "code", then download the files as a .zip. Unzip them and run "install.bat" (just double click).
+You will be prompted with a screen to install fabric. Leave all the options as default but check "install as fabric mod". Then let it finish
+and close the window. Then just boot up minecraft with the "fabric" version and have fun!
